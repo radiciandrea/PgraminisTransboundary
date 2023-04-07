@@ -1,7 +1,5 @@
 rm(list = ls())
 
-setwd("C:/Users/radya/Desktop/Alcuni file permanenti/Dottorato/ArticoliConferenze/08_Puccinia_2_transboundary/Codice_da_pulire")
-
 library(sf)
 library(Matrix)
 library(dplyr)
