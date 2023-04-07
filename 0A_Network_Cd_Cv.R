@@ -3,11 +3,7 @@ rm(list = ls())
 library(sf)
 library(Matrix)
 library(dplyr)
-library(ggplot2)
 library(pracma)
-library(ggplot2)
-
-i_c <- 1:n
 
 load("Data/F_C_y.RData")
 
